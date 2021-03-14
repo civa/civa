@@ -7,13 +7,13 @@ I am Civa , i am 21 and i love codes. I am the founder of  <a href="https://mycr
 <br/>
 <br/>
 <a href="https://twitter.com/cryptociva">
-  <img align="left" alt="Civa's | Twitter" width="22px" src="https://civa.cryptodeploy.io/icons/twitter.svg" />
+  <img align="left" alt="Civa's | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />
 </a>
 <a href="https://wa.me/12524653187">
-  <img align="left" alt="Civa's Whatsapp" width="22px" src="https://civa.cryptodeploy.io/icons/whatsapp.svg" />
+  <img align="left" alt="Civa's Whatsapp" width="22px" src="https://image.flaticon.com/icons/png/128/2504/2504957.png" />
 </a>
 <a href="https://t.me/cryptociva">
-  <img align="left" alt="Civa's Telegram" width="22px" src="https://civa.cryptodeploy.io/icons/telegram.svg" />
+  <img align="left" alt="Civa's Telegram" width="22px" src="https://image.flaticon.com/icons/png/128/906/906377.png" />
 </a>
 <br/>
 <br/>
