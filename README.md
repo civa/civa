@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
-I am Civa , i am 21 and i love codes. I am the founder of  <a href="https://mycryptopay.io">MyCryptoPay</a> , We are focused on building the best blockchain apps, and taking blockchain mainstream. i love making many friends from different countries and get to know new things. 
+I am Civa , i am 21 and i love codes. Focused on building the best blockchain apps, and taking blockchain mainstream. i love making many friends from different countries and get to know new things. 
 <br/>
 <br/>
 ** Social Media **
